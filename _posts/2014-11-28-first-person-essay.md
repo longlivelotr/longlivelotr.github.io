@@ -2,7 +2,7 @@
 layout: post
 title: "first person essay"
 description: ""
-category: 
+category: essay
 tags: []
 ---
 {% include JB/setup %}
