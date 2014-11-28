@@ -15,7 +15,7 @@ tags: []
 * Github拥有140多万开发者用户,是编程的社交网络.
 * 吉祥物: octocat
  
-![octocat](octocat.jpg)
+![octocat](/octocat.jpg)
 
 下面是Github的共同创建人PJ Hyett关于Octocat的回答：
 
