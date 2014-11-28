@@ -13,7 +13,7 @@ tags: []
 ##什么是github?
 * GitHub可以托管各种git代码库，并提供一个web界面.
 * Github拥有140多万开发者用户,是编程的社交网络.
-* 吉祥物: ![octocat](http://baike.baidu.com/picture/3366456/3366456/0/6159252dd42a2834b1c7cf5b59b5c9ea15cebf79?fr=lemma&ct=single)
+* 吉祥物: ![octocat](octocat.jpg)
 下面是Github的共同创建人PJ Hyett关于Octocat的回答：
 
 >The truth is there isn't a good story behind it. Tom Preston-Werner was looking for a fun image for our 404 page, found the Octocat on iStockPhoto, and purchased a limited-use license for something like $50 (we own exclusive rights to it now).
