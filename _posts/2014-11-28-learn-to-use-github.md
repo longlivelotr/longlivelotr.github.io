@@ -2,7 +2,7 @@
 layout: post
 title: "Learn to use github"
 description: ""
-category: 
+category: python
 tags: []
 ---
 {% include JB/setup %}
