@@ -13,7 +13,10 @@ tags: []
 ##什么是github?
 * GitHub可以托管各种git代码库，并提供一个web界面.
 * Github拥有140多万开发者用户,是编程的社交网络.
-* 吉祥物: ![octocat](octocat.jpg)
+* 吉祥物: octocat
+ 
+![octocat](octocat.jpg)
+
 下面是Github的共同创建人PJ Hyett关于Octocat的回答：
 
 >The truth is there isn't a good story behind it. Tom Preston-Werner was looking for a fun image for our 404 page, found the Octocat on iStockPhoto, and purchased a limited-use license for something like $50 (we own exclusive rights to it now).
@@ -32,9 +35,9 @@ tags: []
 2. 登录邮箱激活该帐号
 3. 下载并安装github for windows[下载地址](https://windows.github.com/)
 4. 添加相应的代码仓库到自己的本地:
-LJH：https://github.com/mandmCn/python-LJH
-LZY: https://github.com/mandmCn/python-LZY
-WCH: https://github.com/mandmCn/python-WCH
+* LJH：[https://github.com/mandmCn/python-LJH](https://github.com/mandmCn/python-LJH)
+* LZY: [https://github.com/mandmCn/python-LZY](https://github.com/mandmCn/python-LZY)
+* WCH: [https://github.com/mandmCn/python-WCH](https://github.com/mandmCn/python-WCH)
 5. 今后的程序都放在指定目录中，要记得上传。
 
 
