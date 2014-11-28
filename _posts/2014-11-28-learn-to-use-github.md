@@ -38,7 +38,8 @@ tags: []
 * LJH：[https://github.com/mandmCn/python-LJH](https://github.com/mandmCn/python-LJH)
 * LZY: [https://github.com/mandmCn/python-LZY](https://github.com/mandmCn/python-LZY)
 * WCH: [https://github.com/mandmCn/python-WCH](https://github.com/mandmCn/python-WCH)
-5. 今后的程序都放在指定目录中，要记得上传。
+5. 试着将以前的某个程序复制到指定目录，并同步到github
+6. 今后的程序都放在指定目录中，要记得上传。
 
 
 {% include JB/setup %}
